@@ -18,7 +18,7 @@ int main(void)
 
     total = g1 + g2;
     avg = total / 2.0;
-    printf("Total score: %f/n", total);
+    printf("Total score: %f\n", total);
     printf("Percentage: %f %%", avg);
 
 }
